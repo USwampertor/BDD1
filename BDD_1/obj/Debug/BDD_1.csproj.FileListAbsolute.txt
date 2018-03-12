@@ -1,0 +1,12 @@
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\bin\Debug\BDD_1.exe.config
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\bin\Debug\BDD_1.exe
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\bin\Debug\BDD_1.pdb
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.csprojResolveAssemblyReference.cache
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.Form2.resources
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.Properties.Resources.resources
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.csproj.GenerateResource.Cache
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.exe
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.pdb
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\bin\Debug\MySql.Data.dll
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\bin\Debug\MySql.Data.xml
+C:\Users\PROPIETARIO\Documents\5to Cuatri\Interfaces_Actividades\Interfaces\BDD_1\BDD_1\obj\Debug\BDD_1.Form1.resources
