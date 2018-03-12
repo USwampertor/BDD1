@@ -136,7 +136,8 @@ namespace BDD_1
         }
         private void DataDump()
         {
-            Fetch.OutputHandler(StoredData, this);
+            if(StoredData!=null)
+                Fetch.OutputHandler(StoredData, this);
         }
         private void DataFetch()
         {
